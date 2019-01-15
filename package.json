@@ -40,6 +40,6 @@
     "twilio": "^3.18.0",
     "websocket": "^1.0.26"
   },
-  "author": "Neverland",
+  "author": "metalentco",
   "license": "ISC"
 }
